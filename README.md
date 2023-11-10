@@ -20,7 +20,7 @@
 			  'identifying lichen!',
 			  'writing science zines'
 			],
-  	current_work: 'Writing code',
+	current_work: 'Writing code',
  }
 	
 function getCity() {

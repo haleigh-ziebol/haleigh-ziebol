@@ -28,13 +28,13 @@
 	}
 
 	function Ambitions(){
-		return [
-			      "German fluency",
-			      "Witness tarantula migration",
-			      "Create a class to teach Lichen ID",
-			      "Contribute to open source projects that use biology-focused data"
-		       ]
-		//Assume 5+ more silly things;
+		return	[
+			  'German Fluency',
+			  'Witness tarantula migration',
+			  'Create a class to teach Lichen ID',
+			  'Contribute to some open source projects that use biology-focused data',
+          		]
+			//Assume 5+ more silly things;
 }
 	
  ```

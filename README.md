@@ -20,7 +20,7 @@
 				  'foraging for berries and mushrooms',
 				  'identifying lichen!',
 				  'writing science zines'
-			]
+	]
  }
 	
 function getCity() {

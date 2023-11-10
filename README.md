@@ -12,7 +12,7 @@
 ## Who am I?
  ```javascript
  const WhoAmI = {
-  	user: 'Haleigh Ziebol',
+ 	user: 'Haleigh Ziebol',
   	current_work: 'Writing code',
 	hobbies:	[
 			  'watching disturbing horror movies',

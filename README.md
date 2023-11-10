@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Haleigh</h1>
+#<h1 align="center">Hi 👋, I'm Haleigh</h1>
 <h3 align="center">software dev who loves learning</h3>
 
 - 🔭 I’m currently working on [Forager!](https://forager-the-app-2d51a1f475e5.herokuapp.com/#/home)
@@ -9,6 +9,35 @@
 
 - 😄 Pronouns: **they/them**
 
+## Who am I?
+ ```javascript
+ const WhoAmI = {
+  user: 'Haleigh Ziebol',
+  current_work: 'Writing code',
+  hobbies: [
+          'watching disturbing horror movies',
+          'taking my adventure cat on walks',
+          'foraging for berries and mushrooms',
+          'identifying lichen!',
+          'writing science zines'
+         ]
+ }
+	
+	function getCity(){
+		return "Minneapolis, MN"
+	}
+
+	function Ambitions(){
+		return [
+      "German fluency",
+		  "Witness tarantula migration",
+      "Create a class to teach Lichen ID",
+      "Contribute to open source projects that use biology-focused data"
+       ]
+		//Assume 5+ more silly things;
+}
+	
+ ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/haleigh-ziebol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haleigh-ziebol" height="30" width="40" /></a>

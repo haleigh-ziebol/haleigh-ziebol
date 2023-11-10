@@ -12,9 +12,9 @@
 ## Who am I?
  ```javascript
  const WhoAmI = {
-  user: 'Haleigh Ziebol',
-  current_work: 'Writing code',
-	  hobbies:	[
+  	user: 'Haleigh Ziebol',
+  	current_work: 'Writing code',
+	hobbies:	[
 				  'watching disturbing horror movies',
 				  'taking my adventure cat on walks',
 				  'foraging for berries and mushrooms',
@@ -23,18 +23,18 @@
 			]
  }
 	
-	function getCity(){
-		return "Minneapolis, MN"
-	}
+function getCity() {
+	return "Minneapolis, MN"
+}
 
-	function Ambitions(){
-		return	[
-			  'German Fluency',
-			  'Witness tarantula migration',
-			  'Create a class to teach Lichen ID',
-			  'Contribute to some open source projects that use biology-focused data'
- 		]
-			//Assume 5+ more silly things;
+function Ambitions(){
+	return	[
+		  'German Fluency',
+		  'Witness tarantula migration',
+		  'Create a class to teach Lichen ID',
+		  'Contribute to some open source projects that use biology-focused data'
+	]
+		//Assume 5+ more silly things;
 }
 	
  ```

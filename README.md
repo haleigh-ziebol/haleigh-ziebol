@@ -30,7 +30,7 @@
 	function Ambitions(){
 		return [
       "German fluency",
-		  "Witness tarantula migration",
+      "Witness tarantula migration",
       "Create a class to teach Lichen ID",
       "Contribute to open source projects that use biology-focused data"
        ]

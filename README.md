@@ -11,16 +11,16 @@
 
 ## Who am I?
  ```javascript
- const WhoAmI = {
- 	user: 'Haleigh Ziebol',	
-  	current_work: 'Writing code',	
+ const WhoAmI = {	
 	hobbies:	[
 			  'watching disturbing horror movies',
 			  'taking my adventure cat on walks',
 			  'foraging for berries and mushrooms',
 			  'identifying lichen!',
 			  'writing science zines'
-			]
+			],
+	user: 'Haleigh Ziebol',	
+  	current_work: 'Writing code',
  }
 	
 function getCity() {

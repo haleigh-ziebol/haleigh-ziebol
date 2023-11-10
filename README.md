@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Haleigh</h1>
+<h1 align="center">Hi 👋, I'm Haleigh</h1>
 <h3 align="center">software dev who loves learning</h3>
 
 - 🔭 I’m currently working on [Forager!](https://forager-the-app-2d51a1f475e5.herokuapp.com/#/home)

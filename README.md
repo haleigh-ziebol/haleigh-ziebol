@@ -14,13 +14,13 @@
  const WhoAmI = {
   user: 'Haleigh Ziebol',
   current_work: 'Writing code',
-  hobbies: [
-          'watching disturbing horror movies',
-          'taking my adventure cat on walks',
-          'foraging for berries and mushrooms',
-          'identifying lichen!',
-          'writing science zines'
-         ]
+  hobbies:	[
+		  'watching disturbing horror movies',
+		  'taking my adventure cat on walks',
+		  'foraging for berries and mushrooms',
+		  'identifying lichen!',
+		  'writing science zines'
+          	]
  }
 	
 	function getCity(){
@@ -29,11 +29,11 @@
 
 	function Ambitions(){
 		return [
-      "German fluency",
-      "Witness tarantula migration",
-      "Create a class to teach Lichen ID",
-      "Contribute to open source projects that use biology-focused data"
-       ]
+			      "German fluency",
+			      "Witness tarantula migration",
+			      "Create a class to teach Lichen ID",
+			      "Contribute to open source projects that use biology-focused data"
+		       ]
 		//Assume 5+ more silly things;
 }
 	

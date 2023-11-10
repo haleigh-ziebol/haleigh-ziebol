@@ -19,7 +19,7 @@
 			  'foraging for berries and mushrooms',
 			  'identifying lichen!',
 			  'writing science zines'
-			],	
+			],
   	current_work: 'Writing code',
  }
 	

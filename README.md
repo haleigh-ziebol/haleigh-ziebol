@@ -12,8 +12,8 @@
 ## Who am I?
  ```javascript
  const WhoAmI = {
- 	user: 'Haleigh Ziebol',
-  	current_work: 'Writing code',
+ 	user: 'Haleigh Ziebol',	
+  	current_work: 'Writing code',	
 	hobbies:	[
 			  'watching disturbing horror movies',
 			  'taking my adventure cat on walks',

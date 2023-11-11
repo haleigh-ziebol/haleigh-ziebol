@@ -9,7 +9,7 @@
 
 - 😄 Pronouns: **they/them**
   
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ziebol-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/haleigh-ziebol/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-haleigh-ziebol-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/haleigh-ziebol/])
 
 
 ## Who am I?

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haleigh</h1>
 <h3 align="center">software dev who loves learning and nature</h3>
 
-- 🔭 I’m currently working on: [![Forager](https://github.com/halziebol11/forager-app/blob/main/public/Site_SVG/Logo.svg =90x30) ](https://forager-the-app-2d51a1f475e5.herokuapp.com/#/user)
+- 🔭 I’m currently working on: [![Forager](https://github.com/halziebol11/forager-app/blob/main/public/Site_SVG/Logo%20(120%20x%2040%20px).svg) ](https://forager-the-app-2d51a1f475e5.herokuapp.com/#/user)
 
 - 🌱 I’m currently learning **Ruby on the Rails**
 

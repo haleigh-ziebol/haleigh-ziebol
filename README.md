@@ -1,4 +1,4 @@
-<h1 align="center"><blink>Hi 👋</blink>, I'm Haleigh</h1>
+<h1 align="center">Hi 👋, I'm Haleigh</h1>
 <h3 align="center">software dev who loves learning and nature</h3>
 
 - 🔭 I’m currently working on [Forager!](https://forager-the-app-2d51a1f475e5.herokuapp.com/#/home)
@@ -8,6 +8,9 @@
 - 👯 I’m looking to collaborate on **projects mapping natural data**
 
 - 😄 Pronouns: **they/them**
+  
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 
 ## Who am I?
  ```javascript

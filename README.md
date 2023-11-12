@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haleigh</h1>
-<h3 align="center">software dev who loves learning and nature</h3>
-<img src="https://github.com/halziebol11/small-react-gallery/blob/main/public/images/Github%20README.png"/>
+
+<img src="https://github.com/halziebol11/small-react-gallery/blob/main/public/images/Github%20README.svg" align="center"/>
 
 - 🔭 I’m currently working on: [![Forager](https://github.com/halziebol11/forager-app/blob/main/public/Site_SVG/Logo%20(90%20x%2030).svg) ](https://forager-the-app-2d51a1f475e5.herokuapp.com/#/user)
 

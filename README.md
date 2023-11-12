@@ -17,11 +17,11 @@
  const WhoAmI = {
 	user: 'Haleigh Ziebol',
 	hobbies:	[
-			  'watching disturbing horror movies',
 			  'taking my adventure cat on walks',
 			  'foraging for berries and mushrooms',
 			  'identifying lichen!',
-			  'writing science zines'
+			  'writing science zines',
+			  'watching disturbing horror movies',
 			],
 	current_work: 'Writing code',
  }

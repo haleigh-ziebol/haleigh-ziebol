@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on: [![Forager](https://github.com/halziebol11/forager-app/blob/main/public/Site_SVG/Logo%20(90%20x%2030).svg) ](https://forager-the-app-2d51a1f475e5.herokuapp.com/#/user)
 
-- 🌱 I’m currently learning **Ruby on the Rails**
+- 🌱 I’m currently learning <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
+" alt="ruby"/> </a>
+
 
 - 👯 I’m looking to collaborate on **projects mapping natural data**
 

@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: [![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 
-- 👯 I’m looking to collaborate on **projects mapping natural data**
+- 👯 I’m looking to collaborate on **projects mapping data**
 
 - 😄 Pronouns: **they/them**
   
